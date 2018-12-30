@@ -1780,7 +1780,7 @@ pre .javascript .function {
   font-family: UKIJ Ekran;
 }
 .post-body p a {
-  color: #345;
+  color: #800080;
 }
 .post-body p a:hover {
   color: #f00;
@@ -1958,7 +1958,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #eea396;
+  background: #cfe2ff;
 }
 .links-of-blogroll {
   font-size: 13px;
