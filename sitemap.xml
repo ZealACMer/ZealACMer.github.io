@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://github.com/ZealACMer/categories/index.html</loc>
+    
+    <lastmod>2018-12-31T02:37:36.556Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://github.com/ZealACMer/schedule/index.html</loc>
     
     <lastmod>2018-12-31T02:35:49.786Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://github.com/ZealACMer/tags/index.html</loc>
     
     <lastmod>2018-12-31T02:35:20.383Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://github.com/ZealACMer/categories/index.html</loc>
-    
-    <lastmod>2018-12-31T02:35:00.571Z</lastmod>
     
   </url>
   
